@@ -1,4 +1,4 @@
-### <h1  align="center">The Singularity Is Near. -  Oh look, a page counter: <a href="https://www.freecounterstat.com" title="hit counters"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=xwsdhhad5612ckc63tpwfhpayuslg5pe" size="50%" border="0" title="hit counters" alt="hit counters"></a></h1>
+### <h1  align="center">The Singularity Is Near.</h1>
 
 ###
 
