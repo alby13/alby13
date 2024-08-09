@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I officially have my programmer's wings</h2>
+<h2 align="center">My Programming Languages</h2>
 
 ###
 
