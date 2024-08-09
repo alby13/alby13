@@ -41,3 +41,6 @@ What does the fox say?</b></em>
 ###
 
 <p align="center">My ramblings: https://x.com/alby13 - Check out my new website: https://www.SingularityON.com</p>
+
+<p align="center">Free Programming Editor:<br>
+  https://edit.singularityon.com</p>
