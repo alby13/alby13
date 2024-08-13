@@ -44,3 +44,7 @@ What does the fox say?</b></em>
 
 <p align="center">Free Programming Editor:<br>
   https://edit.singularityon.com</p>
+
+August 13,2024:
+
+<center><a href="https://github.com/alby13/fpga-visual-builder"><img src="https://github.com/alby13/alby13/blob/main/showcase1.png"></a> <a href="https://github.com/alby13/ultimate-json-reader"><img src="https://github.com/alby13/alby13/blob/main/showcase2.png"></a></center>
