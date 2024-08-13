@@ -45,6 +45,6 @@ What does the fox say?</b></em>
 <p align="center">Free Programming Editor:<br>
   https://edit.singularityon.com</p>
 
-<p align="center">Updated August 13,2024:</p>
+<p align="center">Updated August 13, 2024:</p>
 <p align="center"><a href="https://github.com/alby13/fpga-visual-builder"><img src="https://github.com/alby13/alby13/blob/main/showcase1.png"></a></p>
 <p align="center"><a href="https://github.com/alby13/ultimate-json-reader"><img src="https://github.com/alby13/alby13/blob/main/showcase2.png"></a></p>
