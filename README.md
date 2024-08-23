@@ -46,4 +46,4 @@ What does the fox say?</b></em>
   https://edit.singularityon.com</p>
 
 <p align="center">Updated August 23, 2024:</p>
-<p align="center"><a href="https://github.com/alby13/pursuer-ai-assistant/"><img src="https://github.com/alby13/alby13/blob/main/pursuerprogram.jpg"></a></p>
+<p align="center"><a href="https://github.com/alby13/pursuer-ai-assistant/"><img src="https://github.com/alby13/alby13/blob/main/showcase1.jpg"></a></p>
