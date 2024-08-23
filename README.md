@@ -40,10 +40,10 @@ What does the fox say?</b></em>
 
 ###
 
-<p align="center">My ramblings: https://x.com/alby13 - Check out my new website: https://www.SingularityON.com</p>
+<p align="center">Technology News: https://x.com/alby13 - Check out my new website: https://www.SingularityON.com</p>
 
 <p align="center">Free Programming Editor:<br>
   https://edit.singularityon.com</p>
 
-<p align="center">Updated August 18, 2024:</p>
-<p align="center"><a href="https://github.com/alby13/ultimate-json-reader"><img src="https://github.com/alby13/alby13/blob/main/showcase2.png"></a></p>
+<p align="center">Updated August 23, 2024:</p>
+<p align="center"><a href="https://github.com/alby13/pursuer-ai-assistant/"><img src="https://github.com/alby13/alby13/blob/main/pursuerprogram.jpg"></a></p>
