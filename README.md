@@ -45,6 +45,7 @@ What does the fox say?</b></em>
 <p align="center">Free Programming Editor:<br>
   https://edit.singularityon.com</p>
 
+<!-- 
 <p align="center">Updated August 28, 2024:</p>
 <p align="center">Dream Up Any Website That You Desire</p>
 <p align="center"><a href="https://github.com/alby13/infinity-internet"><img src="https://github.com/alby13/alby13/blob/main/showcase1.png"></a></p>
