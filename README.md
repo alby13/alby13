@@ -42,7 +42,7 @@ What does the fox say?</b></em>
 
 <p align="center">Technology News: https://x.com/alby13 - Check out my new website: https://www.SingularityON.com</p>
 
-<p align="center">Free Programming Editor:<br>
+<p align="center">Free Web Programming Editor:<br>
   https://edit.singularityon.com</p>
 
 <!-- 
