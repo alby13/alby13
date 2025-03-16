@@ -40,7 +40,7 @@ What does the fox say?</b></em>
 
 ###
 
-<p align="center">Technology News: https://x.com/alby13 - Check out my new website: https://www.SingularityON.com</p>
+<p align="center">AI, Robot, & Technology News: https://x.com/alby13 - WIP Website: https://www.SingularityON.com</p>
 
 <p align="center">Free Web Coding Editor:<br>
   https://edit.singularityon.com</p>
