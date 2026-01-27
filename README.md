@@ -23,7 +23,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg" height="40" alt="rust logo" />
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" height="40" alt="rust logo" />
 </div>
 
 ###
