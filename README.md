@@ -37,7 +37,9 @@
 
 ###
 
-<p align="center">AI, Robot, & Technology News: https://x.com/alby13 - Portfolio Website: https://www.SingularityON.com</p>
+<p align="center">AI, Robot, & Technology News: https://x.com/alby13</p>
+  
+<p align="center">Portfolio Website: https://www.SingularityON.com</p>
 
 <p align="center">Free Web Coding Editor:<br>
   https://edit.singularityon.com</p>
