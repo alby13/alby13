@@ -30,12 +30,7 @@
 <div align="center">
 
   ---
-  #### <em><b>Dog goes "woof", cat goes "meow". Bird goes "tweet" and mouse goes "squeak". Cow goes "moo", frog goes "croak", 
-  And the elephant goes "toot". Ducks say "quack" and fish go "blub", And the seal goes "ow ow ow".
-
-But there's one sound that no one knows:
-
-What does the fox say?</b></em>
+  #### <em><b>The Singularity Is Near-er-er!</b></em>
 
 
 </div>
