@@ -30,7 +30,7 @@
 <div align="center">
 
   ---
-  #### <em><b>The Singularity Is Near-er-er!</b></em>
+  #### <em><b>Fox by nature, full-stack by necessity</b></em>
 
 
 </div>
